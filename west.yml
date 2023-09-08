@@ -1,0 +1,6 @@
+manifest:
+  version: 0.7
+
+  self:
+    # Where this repository should be cloned to.
+    path: module-example

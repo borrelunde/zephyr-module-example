@@ -1,0 +1,5 @@
+config MODULE_EXAMPLE
+	bool "Module example support"
+	default n
+	help
+		This option enables module example.

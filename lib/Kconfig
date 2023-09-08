@@ -1,0 +1,4 @@
+menuconfig MODULE_EXAMPLE
+	bool "Module example"
+	help
+	  Enable module example.
